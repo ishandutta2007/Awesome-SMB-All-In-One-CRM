@@ -57,11 +57,11 @@ The table below lists top commercial SaaS CRM solutions, ranked by corporate sca
 
 ## ⚡ Open-Source GitHub Projects
 
-Open-source CRM platforms provide full data sovereignty, zero per-user seat fees, and complete UI/backend code extensibility. Below are top open-source projects sorted by GitHub star count (descending).
+Open-source CRM platforms provide full data sovereignty, zero per-user seat fees, and complete UI/backend code extensibility. Below are top open-source projects sorted by GitHub Stars_Count (descending).
 
 ### 🏢 Full ERP/CRM Suites
 
-| 📦 Repository | ⭐ Stars | 📜 License | 🛠️ Tech Stack | 💡 Core Strengths & Capabilities |
+| 📦 Repository | ⭐ GitHub_Stars | 📜 License | 🛠️ Tech Stack | 💡 Core Strengths & Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Odoo](https://github.com/odoo/odoo)** | [![Odoo Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | LGPL-3.0 | Python, JavaScript, PostgreSQL | Modular ERP & CRM suite with pipeline management, lead scoring, and automated marketing. |
 | **[ERPNext](https://github.com/frappe/erpnext)** | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | Python (Frappe), JS, MariaDB | 100% open-source ERP with built-in CRM, sales pipeline, inventory, and accounting. |
@@ -70,7 +70,7 @@ Open-source CRM platforms provide full data sovereignty, zero per-user seat fees
 
 ### 🎯 Dedicated & Modern CRM Platforms
 
-| 📦 Repository | ⭐ Stars | 📜 License | 🛠️ Tech Stack | 💡 Core Strengths & Capabilities |
+| 📦 Repository | ⭐ GitHub_Stars | 📜 License | 🛠️ Tech Stack | 💡 Core Strengths & Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Twenty](https://github.com/twentyhq/twenty)** | [![Twenty Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | AGPL-3.0 | React, TypeScript, NestJS, GraphQL | Modern Notion-style CRM with GraphQL APIs, custom fields, kanban boards, and auto-sync. |
 | **[Monica](https://github.com/monicahq/monica)** | [![Monica Stars](https://img.shields.io/github/stars/monicahq/monica?style=social&color=white)](https://github.com/monicahq/monica/stargazers) | AGPL-3.0 | PHP (Laravel), Vue.js, MySQL | Personal relationship manager & contact network tracker for detailed client log history. |
