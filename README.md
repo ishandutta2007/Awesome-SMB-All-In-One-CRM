@@ -1,237 +1,125 @@
-# Awesome-SMB-All-In-One-CRM
+# 🚀 Awesome SMB All-In-One CRM Ecosystem 📊
 
-## Top SMB All-in-One CRM Ecosystem
+![Awesome SMB All-In-One CRM Banner](./assets/banner.svg)
 
+<p align="left">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://img.shields.io/badge/Category-CRM_%26_ERP-blue?style=flat-square" alt="Category"/>
+  <img src="https://img.shields.io/badge/Focus-SMB_%26_Startups-green?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/License-CC0--1.0-orange?style=flat-square" alt="License"/>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+## 📌 Overview
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Sales Pipelines, Invoicing & Self-Hosted Business Management*  
-
-**Last updated: October 2026**
-
-
-
-This repository tracks notable **commercial SMB all-in-one CRM platforms** and **open-source projects** that combine sales pipeline management, contact tracking, invoicing, and business automation — giving small businesses a single platform instead of juggling multiple tools.
-
-
-
-**Examples** include Salesforce Small Business Suite, HubSpot CRM, Zoho CRM, Pipedrive, Freshsales, Monday Sales CRM, Keap, Insightly, Copper, and HoneyBook (the category leaders).
-
-
-
-**Open-source emphasis**: SMB all-in-one CRM is a strong open-source domain. **Dolibarr** leads as the most comprehensive open-source ERP/CRM with modular activation, electronic billing, and 100+ features . **EspoCRM** delivers a modern, lightweight CRM with clean UI and no per-user fees . **SuiteCRM** remains the feature-rich veteran with enterprise-grade customization . **Krayin** brings a Laravel-based modern CRM with omni-channel communication . **Twenty** offers a modern Notion-style CRM with GraphQL API . **Odoo CRM** integrates with a full business suite . **Vtiger** provides sales, marketing, and support in one platform . This section is heavily expanded.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Salesforce Small Business Suite](https://www.salesforce.com/)**  
-
-  **Salesforce's SMB offering** — Starter Suite with CRM, email, and automation. **From $25/user/month**. **Best for SMBs wanting to grow into the Salesforce ecosystem**.
-
-
-
-- **[HubSpot CRM](https://www.hubspot.com/)**  
-
-  **Free CRM with generous limits** — contacts, deals, tasks, email tracking, and meeting scheduling. **Free forever for core CRM**; paid hubs for marketing/sales/service. **Best for SMBs wanting a free starting point**.
-
-
-
-- **[Zoho CRM](https://www.zoho.com/crm/)**  
-
-  **Best value full-featured CRM** — AI (Zia), omnichannel support, and deep Zoho ecosystem integration. **From $14/user/month**. **Best for budget-conscious SMBs**.
-
-
-
-- **[Pipedrive](https://www.pipedrive.com/)**  
-
-  **Visual pipeline-focused CRM** — drag-and-drop deal stages and sales-focused automation. **From $14/user/month**. **Best for visual pipeline management**.
-
-
-
-- **[Freshsales](https://www.freshworks.com/crm/sales/)**  
-
-  **Freshworks' sales CRM** — AI (Freddy), built-in phone, and email. **From $9/user/month**. **Best for teams wanting integrated communication**.
-
-
-
-- **[Monday Sales CRM](https://monday.com/)**  
-
-  **Monday.com's CRM** — customizable boards, automations, and dashboards. **Best for teams already using Monday.com**.
-
-
-
-- **[Keap](https://keap.com/)**  
-
-  **SMB-focused CRM with automation** — sales, marketing, and payments in one platform. **From $129/month**. **Best for service businesses**.
-
-
-
-- **[Insightly](https://www.insightly.com/)**  
-
-  **CRM with project management** — from $29/user/month. **Best for project-based sales**.
-
-
-
-- **[Copper](https://www.copper.com/)**  
-
-  **CRM for Google Workspace users** — native Gmail, Calendar, and Drive integration. **From $12/user/month**. **Best for Google-centric teams**.
-
-
-
-- **[HoneyBook](https://www.honeybook.com/)**  
-
-  **Client management for creative businesses** — CRM, proposals, contracts, and invoicing. **Best for freelancers and creative agencies**.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-### Full ERP/CRM Suites
-
-
-
-- **[Dolibarr](https://github.com/Dolibarr/dolibarr)**  
-
-  **The most comprehensive open-source ERP/CRM for SMBs**, GPL-3.0 licensed . **Activate only the features you need** — CRM, products, orders, invoices, projects, point-of-sale, foundations member management, donations, and more . **Country-specific tax support**: Spanish RE/IRPF, French DOM-TOME VAT, Basque TicketBAI, Canadian double taxes, Indian GST, Saudi ZATCA . **Ready for electronic billing** (FacturX, Peppol) . **DoliWamp, DoliDeb, DoliRpm auto-installers** for simple setup . **Best for SMBs wanting modular ERP/CRM in one platform** .
-
-
-
-- **[Odoo CRM](https://github.com/odoo/odoo)**  
-
-  **Open-source CRM module within Odoo ERP**, LGPL-3.0 licensed with **49,000+ GitHub stars** (entire Odoo project) . **Pipeline management, lead scoring, email integration, and sales automation** . **Part of the comprehensive Odoo suite** — integrates with accounting, inventory, and marketing . **Community edition is free** — enterprise edition adds advanced features . **Best for organizations already using Odoo or wanting an integrated ERP+CRM** .
-
-
-
-- **[Vtiger CRM Open Source](https://github.com/vtiger-crm/vtigercrm)**  
-
-  **Open-source CRM with sales, marketing, and support automation**, VPL licensed . **Sales pipeline, email marketing, help desk, inventory, and project management** . **Self-hosted with Docker** . **The most integrated open-source business suite** — includes features beyond sales CRM . **Best for organizations wanting CRM + support + inventory in one platform** .
-
-
-
-- **[ERPNext](https://github.com/frappe/erpnext)**  
-
-  **100% free and open-source ERP with CRM**, GPLv3 licensed with **31,900+ GitHub stars** . **CRM module with lead, opportunity, and customer management** . **All modules share one database** — no synchronization between parts of the system . **Best for manufacturing-focused SMBs wanting CRM within a full ERP** .
-
-
-
-### Dedicated CRM Platforms
-
-
-
-- **[EspoCRM](https://github.com/espocrm/espocrm)**  
-
-  **Modern, lightweight open-source CRM**, GPL-3.0 licensed with **1,500+ GitHub stars** . **Clean, intuitive interface** — significantly better UX than SuiteCRM . **Contacts, accounts, leads, opportunities, cases, and campaigns** . **REST API, webhooks, and extensive customization** via Entity Manager . **Self-hosted or cloud** — Docker deployment available . **The best open-source CRM for teams valuing modern UX** . **Best for SMBs and teams wanting a modern, maintainable CRM** .
-
-
-
-- **[SuiteCRM](https://github.com/salesagility/SuiteCRM)**  
-
-  **The leading open-source CRM with enterprise-grade features**, AGPL-3.0 licensed with **4,500+ GitHub stars** . **Accounts, contacts, leads, opportunities, quotes, invoices, contracts, campaigns, and reports** . **Extensive module ecosystem** — add-ons for marketing automation, quoting, and integrations . **Self-hosted with full data ownership** — no per-user fees, no vendor lock-in . **The de facto open-source Salesforce alternative** . **Trade-off**: UI is dated compared to modern CRMs . **Best for organizations wanting a full-featured CRM without licensing costs** .
-
-
-
-- **[Krayin](https://github.com/krayin/laravel-crm)**  
-
-  **Open-source Laravel CRM for SMEs**, MIT licensed with **8,000+ GitHub stars** . Built with **Laravel 11, Vue.js, and Tailwind CSS** . **Leads, contacts, accounts, quotes, and activities** . **Modern Laravel stack** — easy for PHP developers to customize . **Omni-channel communication** via email, live chat, social media, and VoIP . **Best for Laravel developers wanting a modern CRM foundation** .
-
-
-
-- **[Twenty](https://github.com/twentyhq/twenty)**  
-
-  **Modern open-source CRM with a Notion-like interface**, AGPL-3.0 licensed with **25,000+ GitHub stars** . **The fastest-growing open-source CRM** — modern React/TypeScript/NestJS stack . **GraphQL API, custom objects, kanban pipelines, email integration, and workflow automation** . **Self-hosted with Docker** — no per-user fees . **Best for startups and tech companies wanting a modern CRM foundation** .
-
-
-
-- **[CiviCRM](https://github.com/civicrm/civicrm-core)**  
-
-  **Open-source CRM for nonprofits and associations**, AGPL-3.0 licensed . **Donor management, memberships, events, and contributions** . **Not a sales CRM** — designed for nonprofit workflows . **Best for nonprofits and associations** .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **YetiForce CRM** — Open-source CRM based on Vtiger with modern UI, GPL-3.0 licensed .
-
-- **Odoo Community** — Full business suite with CRM module, LGPL-3.0 licensed .
-
-- **X2CRM** — Open-source CRM with marketing automation and sales force automation .
-
-- **Monica** — Personal CRM for managing relationships, not sales .
-
-- **Krayin** — Laravel-based CRM for SMEs, MIT licensed .
-
-- **Vtiger** — CRM + help desk + inventory in one platform .
-
-
-
-**Frameworks for building custom SMB all-in-one CRM solutions**: Combine **Dolibarr** for modular ERP/CRM with CRM, invoicing, and point-of-sale in one platform . Use **EspoCRM** for modern UX with lower complexity . Deploy **SuiteCRM** for enterprise-grade CRM customization . Choose **Krayin** for Laravel developers wanting a modern CRM . Integrate **Twenty** for startups wanting a modern, API-first CRM . Use **Odoo CRM** for organizations already using Odoo ERP . Note that true enterprise CRM with AI-driven forecasting, deep marketing automation, and global ecosystem integrations (HubSpot, Salesforce, Zoho) remains primarily commercial territory; open-source stacks provide strong contact, pipeline, and sales automation foundations that require integration for complete SMB CRM operations.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- CRM platforms handle sensitive customer data and may process PII. Self-hosted solutions require proper security hardening, access controls, and compliance with data privacy regulations (GDPR, CCPA).
-
-- **Open-source CRM requires operational responsibility** — hosting, security patching, backups, and upgrades are your responsibility. SuiteCRM and EspoCRM have active communities; Twenty is newer with rapid development .
-
-- **UI maturity varies significantly** — SuiteCRM and Vtiger have dated interfaces; EspoCRM and Twenty prioritize modern UX . Evaluate against your team's expectations .
-
-- **License considerations**: Dolibarr uses GPL-3.0 , EspoCRM uses GPL-3.0 , SuiteCRM uses AGPL-3.0 , Krayin uses MIT , Twenty uses AGPL-3.0 , and Odoo uses LGPL-3.0 . Verify licensing against your use case before committing.
-
-- The open-source ecosystem provides strong contact, pipeline, and sales automation foundations, but **AI-driven forecasting, deep marketing automation, and global ecosystem integrations** remain primarily commercial offerings.
-
-
+Welcome to the definitive **Awesome SMB All-in-One CRM** directory. This repository curates top-tier **commercial SaaS platforms** and powerful **self-hosted open-source GitHub projects**. Designed specifically for small and medium-sized businesses (SMBs), solopreneurs, and growing startups, these platforms integrate sales pipelines, lead tracking, customer support, contact management, invoicing, and marketing automation into a single cohesive platform.
 
 ---
 
+## 📑 Table of Contents
 
+- [📈 Market Size & Structure](#-market-size--structure)
+- [💼 SaaS/Hosted Commercial Platforms](#-saashosted-commercial-platforms)
+- [⚡ Open-Source GitHub Projects](#-open-source-github-projects)
+  - [🏢 Full ERP/CRM Suites](#-full-erpcrm-suites)
+  - [🎯 Dedicated & Modern CRM Platforms](#-dedicated--modern-crm-platforms)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
+- [⚖️ Disclaimer & Security Considerations](#%EF%B8%8F-disclaimer--security-considerations)
+- [⭐ Star History](#-star-history)
 
-**Made for SMB owners, sales teams, and organizations seeking all-in-one CRM sovereignty.**  
+---
 
-Let's make SMB all-in-one CRM more open, transparent, and accessible.
+## 📈 Market Size & Structure
+
+The global Small and Medium Business (SMB) CRM market is estimated at **$22.5 Billion** and is projected to expand at a CAGR of **12.4%**. The SMB CRM market is **moderately fragmented**: category giants (Salesforce, HubSpot) dominate initial mindshare, yet dozens of specialized SaaS vendors and robust open-source alternatives (Dolibarr, EspoCRM, SuiteCRM, Twenty) capture substantial market share by catering to specific workflows, data sovereignty requirements, and cost-conscious business models.
+
+---
+
+## 💼 SaaS/Hosted Commercial Platforms
+
+The table below lists top commercial SaaS CRM solutions, ranked by corporate scale (estimated market valuation / revenue, descending):
+
+| 🏢 Platform | 💰 Starting Price | 🆓 Free Tier / Free Trial Limit | 📊 Corporate Scale (Valuation / Revenue) | 🎯 Key Focus & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce Small Business Suite](https://www.salesforce.com/)** | $25 / user / month | 30-day free trial (Full features, no credit card required) | **~$280 Billion Market Cap** | Enterprise-grade engine simplified for SMB scaling |
+| **[HubSpot CRM](https://www.hubspot.com/)** | $15 / seat / month (Starter) | **Free Forever** (Up to 5 users, 1,000,000 contacts, core CRM tools) | **~$30 Billion Market Cap** | Inbound marketing integration & generous free tier |
+| **[Monday Sales CRM](https://monday.com/)** | $12 / seat / month | 14-day free trial (Pro features) & Free Forever plan (Up to 2 seats, 1,000 contacts) | **~$14 Billion Market Cap** | Workflow automation & visual board customization |
+| **[Freshsales](https://www.freshworks.com/crm/sales/)** | $9 / user / month | 21-day free trial & Free plan (Up to 3 users, contact & deal management) | **~$5 Billion Market Cap** | AI-powered contact scoring (Freddy AI) & built-in phone/email |
+| **[Zoho CRM](https://www.zoho.com/crm/)** | $14 / user / month | 15-day free trial & **Free Forever** (Up to 3 users, essentials only) | **~$5 Billion Valuation** (Private, $1B+ ARR) | Omnichannel sales automation & budget-friendly deep features |
+| **[Pipedrive](https://www.pipedrive.com/)** | $14 / user / month | 14-day free trial (Full features, no credit card needed) | **~$1.5 Billion Valuation** (Vista Equity backed) | Pure visual sales pipeline management & deal velocity |
+| **[Keap](https://keap.com/)** | $149 / month (includes 1500 contacts, 2 seats) | 14-day free trial (Full access) | **~$500 Million Valuation** | Service-business marketing automation & payment processing |
+| **[HoneyBook](https://www.honeybook.com/)** | $16 / month | 7-day free trial (Full access) | **~$1+ Billion Valuation** (Unicorn status) | Freelancer & creative agency client management (proposals, contracts, billing) |
+| **[Insightly](https://www.insightly.com/)** | $29 / user / month | 14-day free trial & Free plan (Up to 2 users, basic CRM features) | **~$100+ Million Valuation** | Integrated sales pipeline and post-sale project management |
+| **[Copper](https://www.copper.com/)** | $12 / user / month | 14-day free trial (Full features) | **~$75+ Million Valuation** | Native Google Workspace (Gmail/Calendar/Drive) CRM integration |
+
+---
+
+## ⚡ Open-Source GitHub Projects
+
+Open-source CRM platforms provide full data sovereignty, zero per-user seat fees, and complete UI/backend code extensibility. Below are top open-source projects sorted by GitHub star count (descending).
+
+### 🏢 Full ERP/CRM Suites
+
+| 📦 Repository | ⭐ Stars | 📜 License | 🛠️ Tech Stack | 💡 Core Strengths & Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Odoo](https://github.com/odoo/odoo)** | [![Odoo Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | LGPL-3.0 | Python, JavaScript, PostgreSQL | Modular ERP & CRM suite with pipeline management, lead scoring, and automated marketing. |
+| **[ERPNext](https://github.com/frappe/erpnext)** | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | Python (Frappe), JS, MariaDB | 100% open-source ERP with built-in CRM, sales pipeline, inventory, and accounting. |
+| **[Dolibarr](https://github.com/Dolibarr/dolibarr)** | [![Dolibarr Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) | GPL-3.0 | PHP, MySQL/MariaDB | Highly modular ERP/CRM, electronic billing (FacturX/Peppol), tax compliance, POS, and invoicing. |
+| **[Vtiger CRM](https://github.com/vtiger-crm/vtigercrm)** | [![Vtiger Stars](https://img.shields.io/github/stars/vtiger-crm/vtigercrm?style=social&color=white)](https://github.com/vtiger-crm/vtigercrm/stargazers) | VPL (SugarCRM Public) | PHP, MySQL | Comprehensive sales, email marketing, help desk ticketing, inventory, and project tracking. |
+
+### 🎯 Dedicated & Modern CRM Platforms
+
+| 📦 Repository | ⭐ Stars | 📜 License | 🛠️ Tech Stack | 💡 Core Strengths & Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Twenty](https://github.com/twentyhq/twenty)** | [![Twenty Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | AGPL-3.0 | React, TypeScript, NestJS, GraphQL | Modern Notion-style CRM with GraphQL APIs, custom fields, kanban boards, and auto-sync. |
+| **[Monica](https://github.com/monicahq/monica)** | [![Monica Stars](https://img.shields.io/github/stars/monicahq/monica?style=social&color=white)](https://github.com/monicahq/monica/stargazers) | AGPL-3.0 | PHP (Laravel), Vue.js, MySQL | Personal relationship manager & contact network tracker for detailed client log history. |
+| **[Krayin](https://github.com/krayin/laravel-crm)** | [![Krayin Stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white)](https://github.com/krayin/laravel-crm/stargazers) | MIT | Laravel 11, Vue.js, Tailwind CSS | Lightweight, developer-friendly CRM for SMEs with omni-channel support and clean UI. |
+| **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** | [![SuiteCRM Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers) | AGPL-3.0 | PHP, GraphQL, MySQL | Enterprise-grade open-source Salesforce alternative; quotes, contracts, workflow automation, and reporting. |
+| **[CiviCRM](https://github.com/civicrm/civicrm-core)** | [![CiviCRM Stars](https://img.shields.io/github/stars/civicrm/civicrm-core?style=social&color=white)](https://github.com/civicrm/civicrm-core/stargazers) | AGPL-3.0 | PHP, MySQL | Purpose-built CRM for non-profits, associations, membership management, and fundraising. |
+| **[EspoCRM](https://github.com/espocrm/espocrm)** | [![EspoCRM Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers) | GPL-3.0 | PHP, Backbone.js, MySQL | Ultra-clean, fast web interface with robust entity manager, sales leads, and REST API. |
+| **[YetiForce CRM](https://github.com/YetiForceCompany/YetiForceCRM)** | [![YetiForce Stars](https://img.shields.io/github/stars/YetiForceCompany/YetiForceCRM?style=social&color=white)](https://github.com/YetiForceCompany/YetiForceCRM/stargazers) | GPL-3.0 | PHP, JS, MySQL | Feature-rich Vtiger fork with modern UI, security compliance, processes, and calendar modules. |
+| **[X2CRM](https://github.com/X2Engine/X2CRM)** | [![X2CRM Stars](https://img.shields.io/github/stars/X2Engine/X2CRM?style=social&color=white)](https://github.com/X2Engine/X2CRM/stargazers) | GPL-3.0 | PHP (Yii), MySQL | Sales force automation, marketing automation, process workflow engine, and lead scoring. |
+
+---
+
+## 🤝 How to Contribute
+
+We welcome contributions from the SMB community, developers, and CRM enthusiasts!
+
+1. 🍴 **Fork** this repository.
+2. 📝 **Add or edit** entries in `README.md` keeping formatting consistent.
+3. 📌 **Verify information**: Ensure links, license types, and feature summaries are accurate.
+4. 🚀 **Submit a Pull Request (PR)** with a clear title and short summary of added/modified tools.
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring and using this repository! If you find this resource valuable, please consider supporting the project:
+
+- ⭐ **Star** this repository on GitHub to increase its visibility.
+- 🍴 **Fork** and contribute additions or updates to help keep the resource comprehensive.
+- 📢 **Share** it with fellow entrepreneurs, sales leaders, and open-source advocates.
+- ☕ **Sponsor / Buy me a coffee**: Support ongoing maintenance via the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚖️ Disclaimer & Security Considerations
+
+- **Community Curated**: This repository is an independent curation and is not officially affiliated with or endorsed by any vendor listed.
+- **Data Sovereignty & Privacy**: CRMs handle sensitive customer PII. Self-hosted deployments require strict server security, firewall rules, backups, and adherence to regulations such as GDPR or CCPA.
+- **Maintenance Overhead**: Open-source solutions eliminate licensing costs but transfer responsibility for maintenance, database backups, updates, and infrastructure security to your internal team.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-SMB-All-In-One-CRM&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-SMB-All-In-One-CRM&type=date&legend=top-left)
+
+---
+
+<p align="center">
+  <b>Built for SMB owners, sales leaders, and open-source advocates seeking CRM independence.</b><br>
+  ⭐️ Star this repository if you find it helpful!
+</p>
